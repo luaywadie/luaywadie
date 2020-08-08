@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there, welcome to my portfolio! 👋
+
+- 🔭 I'm currently working on automating a camera to track human faces after detection.
+  - Raspberry Pi 4
+  - Servo
+  - Camera Module
+  - Languages: C++ / Python
+- 🌱 I'm currently learning the usage of Computational Efficiency / Intelligence within Embedded Systems.
+- ⚡ Fun fact: Robotics + Astronomy = <img aligh="center" width="30px" src="https://i.ibb.co/9wn8CsW/Clipart-Key-1953707.png">
 
 <!--
 **luaywadie/luaywadie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

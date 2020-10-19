@@ -1,4 +1,4 @@
-### Hello! Welcome To My Portfolio! 👋
+<img src="animated_title.gif">
 
 - 🎥 I'm currently working on automating a camera to track human faces after detection.
   - Raspberry Pi 4
